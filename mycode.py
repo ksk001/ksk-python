@@ -48,4 +48,3 @@ if z < 100:
             print(z)
 
     print(' Thank You For Using The Service')
-    print('your file has been added to git')
